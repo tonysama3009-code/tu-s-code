@@ -1,16 +1,15 @@
-# ====== INPUT DỮ LIỆU TỰ TẠO ======
+
 
 data = [
     "Alice,85",
     "Bob,90",
+    "Tony,95",
+    "skibi,69",
     "",
     "Python is fun",
     "Charlie,78",
     "Python programming"
 ]
-
-
-# ====== CÁC HÀM ======
 
 def count_non_blank_lines(lines):
     count = 0
